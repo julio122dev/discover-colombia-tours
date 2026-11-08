@@ -5,6 +5,13 @@ Site turístico em **3 idiomas (EN | PT-BR | ES)** sobre a Colômbia, criado com
 
 🔗 **Demo:** https://julio122dev.github.io/discover-colombia-tours/
 
+## 📸 Prévia / Preview
+![Capa do site no computador](imagens/capa-desktop.jpg)
+
+| Seção Bogotá (computador) | Celular |
+|---|---|
+| ![Seção Bogotá](imagens/bogota.jpg) | <img src="imagens/celular.jpg" width="220" alt="Site no celular"> |
+
 ## ✨ Recursos / Features
 - Seletor de idioma em um único botão: English, Português (Brasil) e Español / One-button language switch
 - 7 seções: Discover Colombia, Getting There, Bogotá, Medellín, Cartagena, Stay & Eat, Packages & Offers
