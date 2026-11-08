@@ -3,7 +3,7 @@
 Site turístico em **3 idiomas (EN | PT-BR | ES)** sobre a Colômbia, criado como projeto acadêmico de Inglês (ADS, 3º semestre, Fatec Mococa) e **apresentado em sala de aula**, em inglês, para a turma e a professora.
 *Trilingual tourist website about Colombia, built as an English class project (Systems Analysis and Development, 3rd semester) and **presented in class**, in English, to the teacher and classmates.*
 
-🔗 **Demo:** https://SEU-USUARIO.github.io/discover-colombia-tours/
+🔗 **Demo:** https://julio122dev.github.io/discover-colombia-tours/
 
 ## ✨ Recursos / Features
 - Seletor de idioma em um único botão: English, Português (Brasil) e Español / One-button language switch
